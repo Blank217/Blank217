@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Blank217
-- 👀 I’m interested in Computer Science and generally technology and entreprenuership. I am also interested in Artificial Intelligence and VR/AR.
+- 👀 I’m interested in Computer Science and generally technology and entreprenuership. I am also interested in Artificial Intelligence, Data Science and VR/AR.
 - 🌱 I’m currently learning to be a better programmer.
 - 💞️ I’m looking to collaborate on anything within my ability.
 - 📫 How to reach me....
